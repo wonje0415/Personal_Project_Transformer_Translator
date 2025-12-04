@@ -31,6 +31,7 @@
 
 
 - Comparing Attention Translator, Transformer Translator show better performance. (Hyper-Parameters except learning rate (0.001 → 0.0003) are all same.)
+  
     - 
     
     |  | Best Valid Loss | Best Valid Accuracy |
